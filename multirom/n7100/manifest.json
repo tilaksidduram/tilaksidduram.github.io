@@ -1,0 +1,59 @@
+{
+	"status": "ok",
+	"date": "2014-10-21",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "http://www.tilaksidduram.com/n7100/multirom/multirom-20141021-v28-UNOFFICIAL-t03g.zip",
+						"version": "28",
+						"type": "multirom",
+						"size": 3578232,
+						"md5": "b35b6b864b330c30b20843aaa633f28a"
+					},
+					{
+						"url": "http://www.tilaksidduram.com/n7100/multirom/TWRP_multirom_t03g_20141021-00.img",
+						"version": "mrom20141021-00",
+						"type": "recovery",
+						"size": 7665664,
+						"md5": "b77a3e7096ef77fb5ba106148288df4b"
+					},
+					{
+						"extra": {"releases":["4.4.4"]},
+						"url": "http://www.tilaksidduram.com/n7100/multirom/CM-n7100-kernel-signed.zip",
+						"version": "CM11/AOSP/PA",
+						"md5": "1fff1f8a60ebf5ef3073e36c6f9e04e0",
+						"type": "kernel",
+						"size": 7583363
+					},
+					{
+						"url": "http://www.tilaksidduram.com/n7100/multirom/multirom_uninstaller.zip",
+						"version": "1",
+						"type": "uninstaller",
+						"size": 1570520,
+						"md5": "d9f6b163dba5044ecdc7cc19e3f81364"
+					}
+				],
+			"changelogs":
+				[
+					{
+						"url": "http://www.tilaksidduram.com/n7100/multirom/changelog_multirom.txt",
+						"name": "MultiROM"
+					},
+					{
+						"url": "http://www.tilaksidduram.com/n7100/multirom/changelog_recovery.txt",
+						"name": "Recovery"
+					}
+				],
+			"name": "t03g",
+			"ubuntu_touch":
+				{
+					"req_multirom": "",
+					"req_recovery": ""
+				}
+			}
+		]
+}

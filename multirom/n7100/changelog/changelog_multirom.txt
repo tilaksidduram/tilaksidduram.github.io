@@ -1,0 +1,5 @@
+10/10/2014: Initial public release
+
+21/10/2014: Device source: add MicroSD card to init devices, fixed touchscreen issues
+
+24/10/2014: Device source: Updated to v29

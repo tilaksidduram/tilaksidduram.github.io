@@ -1,6 +1,6 @@
 {
 	"status": "ok",
-	"date": "2014-10-21",
+	"date": "2014-10-26",
 	"commands": "",
 	"gpg": false,
 	"devices":
@@ -8,14 +8,14 @@
 			{"files":
 				[
 					{
-						"url": "http://www.tilaksidduram.com/n7100/multirom/multirom-20141021-v28-UNOFFICIAL-t03g.zip",
-						"version": "28",
+						"url": "http://tilaksidduram.github.io/multirom/n7100/multirom-20141024-v29-UNOFFICIAL-t03g.zip",
+						"version": "29",
 						"type": "multirom",
-						"size": 3578232,
-						"md5": "b35b6b864b330c30b20843aaa633f28a"
+						"size": 3578421,
+						"md5": "858c430d6debcaea9bdd436f8cf269a3"
 					},
 					{
-						"url": "http://www.tilaksidduram.com/n7100/multirom/TWRP_multirom_t03g_20141021-00.img",
+						"url": "http://tilaksidduram.github.io/multirom/n7100/TWRP_multirom_t03g_20141021-00.img",
 						"version": "mrom20141021-00",
 						"type": "recovery",
 						"size": 7665664,
@@ -23,14 +23,14 @@
 					},
 					{
 						"extra": {"releases":["4.4.4"]},
-						"url": "http://www.tilaksidduram.com/n7100/multirom/CM-n7100-kernel-signed.zip",
+						"url": "http://tilaksidduram.github.io/multirom/n7100/CM-PA-n7100-kernel-Kexec-hardboot.zip",
 						"version": "CM11/AOSP/PA",
-						"md5": "1fff1f8a60ebf5ef3073e36c6f9e04e0",
+						"md5": "fb7b13e8b41e7363078f31741293ae42",
 						"type": "kernel",
-						"size": 7583363
+						"size": 7581315
 					},
 					{
-						"url": "http://www.tilaksidduram.com/n7100/multirom/multirom_uninstaller.zip",
+						"url": "http://tilaksidduram.github.io/multirom/n7100/multirom_uninstaller.zip",
 						"version": "1",
 						"type": "uninstaller",
 						"size": 1570520,
@@ -40,11 +40,11 @@
 			"changelogs":
 				[
 					{
-						"url": "http://www.tilaksidduram.com/n7100/multirom/changelog_multirom.txt",
+						"url": "http://tilaksidduram.github.io/multirom/n7100/changelog/changelog_multirom.txt",
 						"name": "MultiROM"
 					},
 					{
-						"url": "http://www.tilaksidduram.com/n7100/multirom/changelog_recovery.txt",
+						"url": "http://tilaksidduram.github.io/multirom/n7100/changelog/changelog_recovery.txt",
 						"name": "Recovery"
 					}
 				],
